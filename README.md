@@ -63,5 +63,5 @@ A data-driven analysis of Indian railway ticket bookings to uncover insights int
 
 * Created a PowerPoint presentation (PPT) to summarize key insights and trends.
 
-()
+(https://github.com/Soumen-Jana/Indian-Railway-Ticket-Booking/blob/main/Ticket_booking%20Insights.pptx)
 
