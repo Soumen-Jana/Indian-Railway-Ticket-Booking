@@ -32,18 +32,36 @@ A data-driven analysis of Indian railway ticket bookings to uncover insights int
 * Performed analysis to answer the following key business questions:
 
 1️⃣ What is the age and gender distribution of passengers?
+
 2️⃣ Who are the top 10 frequent travelers?
+
 3️⃣ Which passengers have the highest spending on tickets?
+
 4️⃣ What are the top 5 busiest train routes?
+
 5️⃣ Which trains have the longest travel duration?
+
 6️⃣ Which month has the highest number of ticket bookings?
+
 7️⃣ How many reservations get confirmed vs. on the waiting list?
+
 8️⃣ What is the percentage of last-minute bookings (less than 24 hours before departure)?
+
 9️⃣ What is the total revenue earned per train type?
+
 🔟 What payment mode is used the most by passengers?
+
 1️⃣1️⃣ What is the cancellation rate per train type and route?
+
 1️⃣2️⃣ What are the top 3 reasons for cancellations?
+
 1️⃣3️⃣ What is the average refund amount given per cancellation?
+
+(https://github.com/Soumen-Jana/Indian-Railway-Ticket-Booking/blob/main/analysis.sql)
+
+### Step 5: Presentation of Insights :
+
+* Created a PowerPoint presentation (PPT) to summarize key insights and trends.
 
 ()
 
