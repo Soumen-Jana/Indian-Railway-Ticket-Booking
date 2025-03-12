@@ -4,6 +4,6 @@ A data-driven analysis of Indian railway ticket bookings to uncover insights int
 📂 Steps Involved:
 ### Step 1: Database Creation & Data Insertion :
 
-Created a database named indian_Railway_Ticket_Booking.
+* Created a database named indian_Railway_Ticket_Booking.
 
-Inserted initial data into the database.
+* Inserted initial data into the database.
