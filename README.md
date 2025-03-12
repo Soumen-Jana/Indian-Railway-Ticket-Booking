@@ -7,3 +7,7 @@ A data-driven analysis of Indian railway ticket bookings to uncover insights int
 * Created a database named indian_Railway_Ticket_Booking.
 
 * Inserted initial data into the database.
+
+### Step 2: Adding Additional Data for Data Cleaning :
+
+Supplemented the dataset with additional records for a more comprehensive analysis.
